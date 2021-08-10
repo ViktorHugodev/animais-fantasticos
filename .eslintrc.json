@@ -8,7 +8,8 @@
     "import/extensions": 0,
     "no-console": 0,
     "semi": 0,
-    "linebreak-style": 0
+    "linebreak-style": 0,
+    "no-trailing-spaces": 0
     
   }
 }
