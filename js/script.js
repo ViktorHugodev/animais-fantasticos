@@ -1,3 +1,4 @@
+
 import ScrollSuave from './modules/scroll-suave.js'
 import initAccordion from './modules/accordion.js'
 import initAnimacaoScroll from './modules/scroll-animacao.js'
