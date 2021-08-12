@@ -21,5 +21,6 @@ export default class ScrollAnima {
   init() {
     this.animaScroll()
     window.addEventListener('scroll', this.animaScroll)
+    return this
   }
 }
